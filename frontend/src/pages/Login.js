@@ -7,8 +7,8 @@ import { H1 } from 'components/TextStyles'
 //import { Input } from 'components/Input'
 //import { Button } from '../components/Form/Button'
 
-//const URL_SIGNUP = 'http://localhost:8080/sessions'
-const URL_SIGNUP = 'https://week20-auth-app.herokuapp.com/'
+const URL_SIGNUP = 'http://localhost:8082/sessions'
+//const URL_SIGNUP = 'https://week20-auth-app.herokuapp.com/'
 
 export const Login = props => {
   const history = useHistory()

@@ -4,8 +4,8 @@ import { Container } from '../components/Container'
 import { Form, Button, Input} from '../components/Form'
 import { H1 } from '../components/TextStyles'
 
-//const URL_SIGNUP = 'http://localhost:8080/users'
-const URL_SIGNUP = 'https://week20-auth-app.herokuapp.com/'
+const URL_SIGNUP = 'http://localhost:8082/users'
+//const URL_SIGNUP = 'https://week20-auth-app.herokuapp.com/'
 
 export const SignUp = () => {
   const [name, setName] = useState()
