@@ -7,7 +7,7 @@ export const StyledLink = styled(Link)`
   border-radius: 25px;
   color: black;
   padding: 15px;
-  font-size: 50px;
+  font-size: 40px;
   box-shadow: 2px 2px;
   margin-left: 10px;
   margin-bottom: 20px;
